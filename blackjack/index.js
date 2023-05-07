@@ -1,3 +1,4 @@
+// DEC 16, 2021
 let player = {
     name: "King",
     chips: 150
